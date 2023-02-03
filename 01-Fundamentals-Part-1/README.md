@@ -6,6 +6,7 @@ This contains all the topics I learnt in this section.
 
 - [Variables](#variables)
   - [Naming Variables](#naming-variables)
+  - [Declaring Variables](#declaring-variables)
 - [Data Types](#data-types)
 
 ## Variables
@@ -27,6 +28,11 @@ let first = "Ade";
 let firstName = "Adedamola";
 let first_name = "Ola";
 ```
+
+### Declaring Variables
+
+Modern Javascript(ES6) = LET, CONST.
+VAR = old way of declaring variables.
 
 ## Data Types
 
@@ -61,3 +67,11 @@ The typeof method is used to check the data type of a variable.
 ```
 console.log(typeof age);
 ```
+
+
+
+## Operators
+Mathematical operators
+Assignment operators
+Comparison operators
+
