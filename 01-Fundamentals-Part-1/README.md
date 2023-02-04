@@ -1,6 +1,6 @@
 # The Complete JavaScript Course - 01 - Fundamentals - Part - 1
 
-This contains all the topics I learnt in this section.
+This contains some topics I learnt in this section.
 
 ## Table of contents
 
@@ -8,6 +8,7 @@ This contains all the topics I learnt in this section.
   - [Naming Variables](#naming-variables)
   - [Declaring Variables](#declaring-variables)
 - [Data Types](#data-types)
+- [Operators](#operators)
 
 ## Variables
 
@@ -68,10 +69,34 @@ The typeof method is used to check the data type of a variable.
 console.log(typeof age);
 ```
 
-
-
 ## Operators
+
 Mathematical operators
+
+- +, -, \*, /, \*\*
+
 Assignment operators
+
+- =
+- ++
+
+---
+
 Comparison operators
 
+- ==
+- ===
+- !=
+- !==
+- \>=
+- <=
+
+Logical operators
+
+- AND : &&
+- OR : ||
+- NOT : !
+
+Boolean Logic
+
+- AND, OR, NOT
